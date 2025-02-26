@@ -14,7 +14,7 @@ Raspberry Pi Connect provides secure access to your Raspberry Pi from anywhere i
 
 ---
 ### How to SSH into Raspberry Pi
-Now that you have SSH enabled and you have the IP, you’re ready to SSH into your Raspberry Pi. The steps to do this will vary depending on whether you’re using Windows, Mac, or the Ubuntu Linux OS.
+The steps to do this will vary depending on whether you’re using Windows, Mac, or the Ubuntu Linux OS.
 
 #### How to SSH into Raspberry Pi from Windows
 There are many ways to SSH into a Raspberry Pi. In the following steps, we’ll show you how to do this using PuTTy (an open-source terminal emulator) or PowerShell. 
